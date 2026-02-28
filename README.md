@@ -1,1 +1,472 @@
-# Razaplaylist-
+#EXTM3U
+
+#EXTINF:-1, Madani Channel
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/121H/playlist.m3u8
+
+#EXTINF:-1, ARY Q TV
+http://163.61.227.29:8000/play/a03q/index.m3u8
+
+#EXTINF:-1, GEO NEWS
+https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/playlist.m3u8
+
+#EXTINF:-1, ARY News
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYnews-abr/playlist.m3u8
+
+#EXTINF:-1, HUM NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/humnews-abr/playlist.m3u8
+
+#EXTINF:-1, AAJ NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/AajNews-abr/playlist.m3u8
+
+#EXTINF:-1, KTN ENT
+https://cdn02khi.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8
+
+#EXTINF:-1, KASHISH
+https://cdn02khi.tamashaweb.com:8087/jazzauth/KashishTV-abr/playlist.m3u8
+
+#EXTINF:-1, KTN NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/ktnNews-abr/playlist.m3u8
+
+#EXTINF:-1, TIME NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/TimeNews-abr/playlist.m3u8
+
+#EXTINF:-1, SINDH TV
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/sindhTV-abr/playlist.m3u8
+
+#EXTINF:-1, SINDH NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/SindhNews-abr/playlist.m3u8
+
+#EXTINF:-1, MEHRAN TV
+https://cdn02khi.tamashaweb.com:8087/jazzauth/MehranTV-abr/playlist.m3u8
+
+#EXTINF:-1, Awaz TV
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/120M/playlist.m3u8
+
+#EXTINF:-1, PTV Sports
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/189H/playlist.m3u8
+
+#EXTINF:-1, ASPORTS HD
+http://163.61.227.29:8000/play/a03t/index.m3u8
+
+#EXTINF:-1, Geo SUPER 
+https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v2a1/mono.ts.m3u8
+
+#EXTINF:-1, CHANNEL (Pro)
+https://alibabacdn4.tamashaweb.com/alibaba04/alibaba04stream.m3u8
+
+#EXTINF:-1, CHANNEL 2 (Pro)
+https://alibabacdn5.tamashaweb.com/alibaba05/alibaba05stream.m3u8
+
+#EXTINF:-1, CHANNEL 1
+https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream.m3u8
+
+#EXTINF:-1, CHANNEL 2 
+https://alibabacdn3.tamashaweb.com/alibaba03/alibaba03stream.m3u8
+
+#EXTINF:-1, CHANNEL 3
+https://cdn01khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8
+
+#EXTINF:-1, MyCo Live
+https://ml-pull-dvc-myco.io:2096/ICC_T20WC/tracks-v5a1/mono.ts.m3u8
+
+#EXTINF:-1, HUM TV
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8
+
+#EXTINF:-1, ARY Digital
+https://cdn02khi.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8
+
+#EXTINF:-1, GEO ENT
+https://cdn02khi.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/playlist.m3u8
+
+#EXTINF:-1, GREEN TV
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/166M/playlist.m3u8
+
+#EXTINF:-1, EXPRESS NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/expressnews-abr/playlist.m3u8
+
+#EXTINF:-1, SAMAA NEWS
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/playlist.m3u8
+
+#EXTINF:-1, 92 NEWS
+‎http://163.61.227.29:8000/play/a05v/index.m3u8
+
+#EXTINF:-1, DUNIYA NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/DuniyaNews-abr/playlist.m3u8
+
+#EXTINF:-1, PTV NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/PTVNews-abr/playlist.m3u8
+
+#EXTINF:-1, BOL NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/BolNews-abr/playlist.m3u8
+
+#EXTINF:-1, NEO NEWS
+http://163.61.227.29:8000/play/a029/index.m3u8
+
+#EXTINF:-1, PUBLIC NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/PublicTV-abr/playlist.m3u8
+
+#EXTINF:-1, NEO NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/NeoNews-abr/playlist.m3u8
+
+#EXTINF:-1, 24 NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/24News-abr/playlist.m3u8
+
+#EXTINF:-1, 365 NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/365News-abr/playlist.m3u8
+
+#EXTINF:-1, GNN NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/GNN-abr/playlist.m3u8
+
+#EXTINF:-1, LAHORE RUNG
+https://cdn02khi.tamashaweb.com:8087/jazzauth/LahoreRung-abr/playlist.m3u8
+
+#EXTINF:-1, GTV NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/GTVNews-abr/playlist.m3u8
+
+#EXTINF:-1, SUNO NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/Suno_News-abr/playlist.m3u8
+
+#EXTINF:-1, DAWN NEWS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/DawnNews-abr/playlist.m3u8
+
+#EXTINF:-1, CHANNEL 5
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/159-4M/playlist.m3u8
+
+#EXTINF:-1, METRO 1
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/175M/chunks.m3u8
+
+#EXTINF:-1, AIK NEWS
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/169M/chunks.m3u8
+
+#EXTINF:-1, CITY 21
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/168M/chunks.m3u8
+
+#EXTINF:-1, ABN NEWS
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/161M/chunks.m3u8
+
+#EXTINF:-1, ROHI TV
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/147M/chunks.m3u8
+
+#EXTINF:-1, CITY 42
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/144M/chunks.m3u8
+
+#EXTINF:-1, CITY 41
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/143M/chunks.m3u8
+
+#EXTINF:-1, ROZE NEWS
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/139M/chunks.m3u8
+
+#EXTINF:-1, SUN NEWS
+https://cdn12isb.tamashaweb.com:8087/jazzauth/SUN-NEWS-abr/playlist.m3u8
+
+#EXTINF:-1, Animal Planet
+https://cdn05khi.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/playlist.m3u8
+
+#EXTINF:-1, Discovery Channel
+https://cdn02khi.tamashaweb.com:8087/jazzauth/DiscoveryHD-abr/playlist.m3u8
+
+#EXTINF:-1, Discovery Science
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Discovery-Science-abr/playlist.m3u8
+
+#EXTINF:-1, BBC NEWS
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/BBCNEWS-abr/playlist.m3u8
+
+#EXTINF:-1, BBC EARTH
+https://cdn05khi.tamashaweb.com:8087/jazzauth/BBC-Earth-abr/playlist.m3u8
+
+#EXTINF:-1, BBC FIRST
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/BBC-First-abr/playlist.m3u8
+
+#EXTINF:-1, BBC LIFE
+https://cdn12isb.tamashaweb.com:8087/jazzauth/BBC-Lifestyle-abr/playlist.m3u8
+
+#EXTINF:-1, CNN News
+https://cdn02khi.tamashaweb.com:8087/jazzauth/Livecnn-abr/playlist.m3u8
+
+#EXTINF:-1, Pakistan News
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/192H/playlist.m3u8
+
+#EXTINF:-1, Tamasha News
+https://cdn02khi.tamashaweb.com:8087/jazzauth/Tamasha-News-abr/playlist.m3u8
+
+#EXTINF:-1, Tamasha Life
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Tamasha-Life-HD-abr/playlist.m3u8
+
+#EXTINF:-1, Tamasha Woman
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Tamasha-Women-abr/playlist.m3u8
+
+#EXTINF:-1, Digital Pak
+https://cdn02khi.tamashaweb.com:8087/jazzauth/Digital-pak-abr/playlist.m3u8
+
+
+#EXTINF:-1, Discover Pakistan
+https://cdn02khi.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u8
+
+#EXTINF:-1, HUM Sitaray
+https://cdn02khi.tamashaweb.com:8087/jazzauth/HumSitaray-abr/playlist.m3u8
+
+#EXTINF:-1, ARY Zindagi
+https://cdn02khi.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/playlist.m3u8
+
+#EXTINF:-1, PTV Home
+https://cdn02khi.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
+
+#EXTINF:-1, PTV National
+https://cdn02khi.tamashaweb.com:8087/jazzauth/PTVNational-abr/playlist.m3u8
+
+#EXTINF:-1, PTV Bolan
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/194H/playlist.m3u8
+
+#EXTINF:-1, BOL ENT
+https://cdn02khi.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/playlist.m3u8
+
+#EXTINF:-1, MUN TV 
+https://ml-pull-dvc-myco.io:2096/MUN_TV/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, APLUS
+https://cdn02khi.tamashaweb.com:8087/jazzauth/Aplus-abr/playlist.m3u8
+
+#EXTINF:-1, Aaj Entertainment
+https://cdn02khi.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8
+
+#EXTINF:-1, ATV
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/123M/playlist.m3u8
+
+#EXTINF:-1, TV ONE
+https://cdn02khi.tamashaweb.com:8087/jazzauth/TVOne-abr/playlist.m3u8
+
+#EXTINF:-1, Express ENT
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/159-1H/playlist.m3u8
+
+#EXTINF:-1, Set Entertainment
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/164M/chunks.m3u8
+
+#EXTINF:-1, LTN Family
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/158-2M/chunks.m3u8
+
+#EXTINF:-1, APNA TV
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/134H/chunks.m3u8
+
+#EXTINF:-1, SAB TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/SabTV-abr/playlist.m3u8
+
+#EXTINF:-1, Aur Life
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/AurLife-abr/playlist.m3u8
+
+#EXTINF:-1, Minimax
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Minimax-abr/playlist.m3u8
+
+#EXTINF:-1, See TV
+https://cdn12isb.tamashaweb.com:8087/jazzauth/seeTV-abr/playlist.m3u8
+
+#EXTINF:-1, Ten Sports
+https://cdn02khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8
+
+#EXTINF:-1, Jalwa
+https://cdn02khi.tamashaweb.com:8087/jazzauth/jalwa-abr/playlist.m3u8
+
+#EXTINF:-1, 8XM
+https://cdn02khi.tamashaweb.com:8087/jazzauth/8xm-abr/playlist.m3u8
+
+#EXTINF:-1, Filmax
+https://cdn02khi.tamashaweb.com:8087/jazzauth/Filmax-abr/playlist.m3u8
+
+#EXTINF:-1, Baby TV
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/188H/playlist.m3u8
+
+#EXTINF:-1, Champion TV
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/177H/chunks.m3u8
+
+#EXTINF:-1, Movie 1
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/176H/chunks.m3u8
+
+#EXTINF:-1, Star GOLD HD 
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+
+#EXTINF:-1, Link 2
+http://103.99.249.139/stargold/index.m3u8
+
+#EXTINF:-1, Star GOLD 2
+http://103.229.254.25:7001/play/a0df/index.m3u8
+
+#EXTINF:-1, Star GOLD 2 HD
+http://103.229.254.25:7001/play/a0d0/index.m3u8
+
+#EXTINF:-1, SG Romantic 
+http://103.229.254.25:7001/play/a0ck/index.m3u8
+
+#EXTINF:-1, SG Select HD
+http://103.229.254.25:7001/play/a032/index.m3u8
+
+#EXTINF:-1, Star PLUS
+http://103.229.254.25:7001/play/a09p/index.m3u8
+
+#EXTINF:-1, Star PLUS HD
+http://103.229.254.25:7001/play/a09z/index.m3u8
+
+#EXTINF:-1, COLORS 
+http://103.229.254.25:7001/play/a077/index.m3u8
+
+#EXTINF:-1, link 2
+http://103.99.249.139/colors/index.m3u8
+
+#EXTINF:-1, COLORS HD
+http://103.229.254.25:7001/play/a0a1/index.m3u8
+
+#EXTINF:-1, ZEE TV
+http://103.229.254.25:7001/play/a09t/index.m3u8
+
+#EXTINF:-1, ZEE CANADA
+https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
+
+
+#EXTINF:-1, ZEETV HD
+http://103.229.254.25:7001/play/a0cs/index.m3u8
+‎
+#EXTINF:-1, &TV
+http://103.229.254.25:7001/play/a09v/index.m3u8
+
+#EXTINF:-1, &TV HD
+http://103.229.254.25:7001/play/a034/index.m3u8
+
+#EXTINF:-1, SONY ENT
+http://103.229.254.25:7001/play/a074/index.m3u8
+
+#EXTINF:-1, SONY HD
+http://103.229.254.25:7001/play/a0dv/index.m3u8
+
+#EXTINF:-1, SONY SAB
+http://103.229.254.25:7001/play/a09s/index.m3u8
+
+#EXTINF:-1, SAB HD
+http://103.229.254.25:7001/play/a0db/index.m3u8
+
+#EXTINF:-1, Star UTSAV 
+http://163.61.227.29:8000/play/a04p/index.m3u8
+
+#EXTINF:-1, COLORS RISHTEY
+http://163.61.227.29:8000/play/a04k/index.m3u8
+
+#EXTINF:-1, SONY PAL
+http://163.61.227.29:8000/play/a04d/index.m3u8
+
+#EXTINF:-1, SONY KAL
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1, ZEE ANMOL 
+http://163.61.227.29:8000/play/a04a/index.m3u8
+
+#EXTINF:-1, DANGAL
+http://163.61.227.29:8000/play/a04r/index.m3u8
+
+#EXTINF:-1, DANGAL 2
+http://163.61.227.29:8000/play/a04b/index.m3u8
+
+#EXTINF:-1, BIG MAGIC 
+http://163.61.227.29:8000/play/a04f/index.m3u8
+
+#EXTINF:-1, SONY MAX
+http://103.229.254.25:7001/play/a0co/index.m3u8
+
+#EXTINF:-1, max link2
+http://103.99.249.139/sonymax/index.m3u8
+
+#EXTINF:-1, SONY MAX HD
+http://163.61.227.29:8000/play/a061/index.m3u8
+
+#EXTINF:-1, ZEE CINEMA HD
+http://103.99.249.139/zeecinema/index.m3u8
+
+#EXTINF:-1, ZEE ANMOL CINEMA 
+http://163.61.227.29:8000/play/a04j/index.m3u8
+
+#EXTINF:-1, ZEE ACTION 
+http://163.61.227.29:8000/play/a044/index.m3u8
+
+#EXTINF:-1, ZEE BOLLYWOOD 
+http://103.229.254.25:7001/play/a0dk/index.m3u8
+‎
+#EXTINF:-1, ZEE CLASSIC 
+http://103.229.254.25:7001/play/a09w/index.m3u8
+
+#EXTINF:-1, COLORS CINPLEX HD
+http://163.61.227.29:8000/play/a05x/index.m3u8
+
+#EXTINF:-1, COLORS CINPLEX BOLLY
+http://163.61.227.29:8000/play/a04w/index.m3u8
+
+#EXTINF:-1, COLORS CINPLEX SUP
+http://163.61.227.29:8000/play/a04c/index.m3u8
+
+#EXTINF:-1, & PICTURE HD
+http://103.229.254.25:7001/play/a033/index.m3u8
+‎
+#EXTINF:-1, GOLDMINES
+http://163.61.227.29:8000/play/a04u/index.m3u8
+
+#EXTINF:-1, GOLDMINES MOVIES
+http://103.229.254.25:7001/play/a07k/index.m3u8
+
+#EXTINF:-1, GOLDMINES BOLLYWOOD 
+http://103.229.254.25:7001/play/a07l/index.m3u8
+
+#EXTINF:-1, B4U MOVIES
+http://163.61.227.29:8000/play/a047/index.m3u8
+
+#EXTINF:-1, B4U KADAK
+http://163.61.227.29:8000/play/a04g/index.m3u8
+
+#EXTINF:-1, B4U HITZ
+http://115.42.65.142:9981/stream/channelid/1099703605
+
+‎#EXTINF:-1, All time
+‎http://163.61.227.29:8000/play/a049/index.m3u8
+
+#EXTINF:-1, ‎Mobranjan tv 
+‎http://163.61.227.29:8000/play/a04h/index.m3u8
+
+#EXTINF:-1, Shem tv
+‎http://163.61.227.29:8000/play/a04q/index.m3u8
+
+‎#EXTINF:-1, Shem josh
+‎http://163.61.227.29:8000/play/a04m/index.m3u8
+
+#EXTINF:-1, Disc kid
+‎http://103.229.254.25:7001/play/a0dg/index.m3u8
+‎
+‎#EXTINF:-1, Pogo
+‎http://103.229.254.25:7001/play/a0dh/index.m3u8
+‎
+#EXTINF:-1, ‎Sonic
+‎http://103.229.254.25:7001/play/a0dl/index.m3u8
+
+#EXTINF:-1, Nick
+http://103.229.254.25:7001/play/a0cq/index.m3u8
+
+#EXTINF:-1, SONY YAY
+http://103.229.254.25:7001/play/a0cl/index.m3u8
+
+#EXTINF:-1, DK
+http://103.229.254.25:7001/play/a0dg/index.m3u8
+
+#EXTINF:-1, ANIMAL PLANET 
+http://103.229.254.25:7001/play/a0dr/index.m3u8
+
+#EXTINF:-1, 9XM
+‎http://103.229.254.25:7001/play/a07o/index.m3u8
+
+#EXTINF:-1, ‎9X JALWA
+‎http://103.229.254.25:7001/play/a07r/index.m3u8
+‎
+#EXTINF:-1, SHOBOX
+‎http://163.61.227.29:8000/play/a045/index.m3u8
+‎
+#EXTINF:-1, B4U MUSIC 
+‎http://163.61.227.29:8000/play/a046/index.m3u8
+
+#EXTINF:-1, MUSIC INDIA
+‎http://163.61.227.29:8000/play/a057/index.m3u8
+
+#EXTINF:-1, YRF MUSIC 
+‎https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
