@@ -338,6 +338,9 @@ http://103.229.254.25:7001/play/a0dv/index.m3u8
 #EXTINF:-1, SONY SAB
 http://103.229.254.25:7001/play/a09s/index.m3u8
 
+#EXTINF:-1, link2
+http://103.99.249.139/sonysab/index.m3u8
+
 #EXTINF:-1, SAB HD
 http://103.229.254.25:7001/play/a0db/index.m3u8
 
@@ -442,6 +445,9 @@ http://115.42.65.142:9981/stream/channelid/1099703605
 
 #EXTINF:-1, Nick
 http://103.229.254.25:7001/play/a0cq/index.m3u8
+
+#EXTINF:-1, link 2
+http://103.99.249.139/sonyyay/index.m3u8
 
 #EXTINF:-1, SONY YAY
 http://103.229.254.25:7001/play/a0cl/index.m3u8
