@@ -286,11 +286,20 @@ http://103.229.254.25:7001/play/a0dd/index.m3u8
 #EXTINF:-1, Link 2
 http://103.99.249.139/stargold/index.m3u8
 
+#EXTINF:-1, SG Link3
+‎http://116.90.120.128:8000/play/a0gy/index.m3u88
+
 #EXTINF:-1, Star GOLD 2
 http://103.229.254.25:7001/play/a0df/index.m3u8
 
+#EXTINF:-1, SG2 Link3
+‎http://116.90.120.128:8000/play/a0hq/index.m3u88
+
 #EXTINF:-1, Star GOLD 2 HD
 http://103.229.254.25:7001/play/a0d0/index.m3u8
+
+#EXTINF:-1, SUM Link3
+‎http://116.90.120.128:8000/play/a0ka/index.m3u88
 
 #EXTINF:-1, SG Romantic 
 http://103.229.254.25:7001/play/a0ck/index.m3u8
@@ -304,6 +313,9 @@ http://103.229.254.25:7001/play/a032/index.m3u8
 #EXTINF:-1, Star PLUS
 http://103.229.254.25:7001/play/a09p/index.m3u8
 
+#EXTINF:-1, SP Link3
+‎http://116.90.120.128:8000/play/a0gr/index.m3u88
+
 #EXTINF:-1, Star PLUS HD
 http://103.229.254.25:7001/play/a09z/index.m3u8
 
@@ -312,6 +324,9 @@ http://103.229.254.25:7001/play/a077/index.m3u8
 
 #EXTINF:-1, link 2
 http://103.99.249.139/colors/index.m3u8
+
+#EXTINF:-1, Colors. Link3
+‎http://116.90.120.128:8000/play/a0gt/index.m3u88
 
 #EXTINF:-1, COLORS HD
 http://103.229.254.25:7001/play/a0a1/index.m3u8
@@ -322,6 +337,8 @@ http://103.229.254.25:7001/play/a09t/index.m3u8
 #EXTINF:-1, ZEE CANADA
 https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
 
+#EXTINF:-1, ZTV Link3
+‎http://116.90.120.128:8000/play/a0hk/index.m3u88
 
 #EXTINF:-1, ZEETV HD
 http://103.229.254.25:7001/play/a0cs/index.m3u8
@@ -350,8 +367,8 @@ http://103.99.249.139/sonysab/index.m3u8
 #EXTINF:-1, SAB HD
 http://103.229.254.25:7001/play/a0db/index.m3u8
 
-#EXTINF:-1, S bhart
-http://103.113.103.202:8001/play/a01z/index.m3u8
+#EXTINF:-1, SB Link3
+‎http://116.90.120.128:8000/play/a0h2/index.m3u88
 
 #EXTINF:-1, STAR BHARAT
 http://116.90.120.128:8000/play/a0ja/index.m3u88
@@ -387,13 +404,19 @@ http://103.229.254.25:7001/play/a0co/index.m3u8
 http://103.99.249.139/sonymax/index.m3u8
 
 #EXTINF:-1, SONY MAX HD
-http://163.61.227.29:8000/play/a061/index.m3u8
+http://116.90.120.128:8000/play/a0jf/index.m3u88
 
-#EXTINF:-1, SONY MAX 2
-http://103.113.103.202:8001/play/a002/index.m3u8
+#EXTINF:-1, ‎S WAH  Link3
+‎http://116.90.120.128:8000/play/a0kt/index.m3u88
+
+#EXTINF:-1, Max2 Link3
+‎http://116.90.120.128:8000/play/a0h0/index.m3u88
 
 #EXTINF:-1, ZEE CINEMA HD
 http://103.99.249.139/zeecinema/index.m3u8
+
+#EXTINF:-1, ‎ZC Link3
+‎http://116.90.120.128:8000/play/a0hc/index.m3u88
 
 #EXTINF:-1, ZEE ANMOL CINEMA 
 http://163.61.227.29:8000/play/a04j/index.m3u8
