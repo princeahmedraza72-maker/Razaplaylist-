@@ -9,6 +9,9 @@ http://163.61.227.29:8000/play/a03q/index.m3u8
 #EXTINF:-1, Paigham Tv
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/PaighamTV-abr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="geo" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ktn-entertainment-live.webp?id=46" group-title="Ahmed's List",Geo News https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/playlist.m3u8
+‎
+
 #EXTINF:-1, GEO NEWS
 https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/playlist.m3u8
 
