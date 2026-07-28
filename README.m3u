@@ -13,7 +13,7 @@ https://cdn21lhr.tamashaweb.com:8087/jazzauth/PaighamTV-abr/playlist.m3u8
 #EXTINF:-1, GEO NEWS
 https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name="Paigham TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="Ahmed", ARY News 
+#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name=" ARY News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="Ahmed", ARY News 
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYnews-abr/playlist.m3u8
 
 #EXTINF:-1, HUM NEWS
