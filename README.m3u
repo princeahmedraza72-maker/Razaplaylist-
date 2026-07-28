@@ -538,6 +538,8 @@ https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/29860.m3u8
 #EXTINF:-1, TEST
 https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/62357.m3u8
 
+#EXTINF:-1, $ National Geo
+https://live1.ssmmcdn.cloud:2096/NATGEOFHD/index.m3u8
 
 
 
