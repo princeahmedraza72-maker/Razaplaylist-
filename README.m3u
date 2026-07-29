@@ -1,547 +1,286 @@
 #EXTM3U
 
-#EXTINF:-1, Madani Channel 
+#EXTINF:-1 tvg-id="MadaniChannel.pk" tvg-name="Madani Channel" tvg-logo="LOGO_URL" group-title="Ahmed",Madani Channel
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/121H/playlist.m3u8
 
-#EXTINF:-1, ARY Q TV
+#EXTINF:-1 tvg-id="ARYQTV.pk" tvg-name="ARY QTV" tvg-logo="LOGO_URL" group-title="Ahmed",ARY QTV
 http://163.61.227.29:8000/play/a03q/index.m3u8
 
-#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name="Paigham TV" tvg-logo="https://cbdi4rey310v.merlincdn.net/assets/com.paigham/platforms/com.paigham.website.prod/general/logo.png" group-title="Ahmed", Paigham TV 
+#EXTINF:-1 tvg-id="PaighamTV.pk" tvg-name="Paigham TV" tvg-logo="LOGO_URL" group-title="Ahmed",Paigham TV
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/PaighamTV-abr/playlist.m3u8
 
-
-#EXTINF:-1, GEO NEWS
+#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name="Geo News" tvg-logo="LOGO_URL" group-title="Ahmed",Geo News
 https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name=" ARY News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="Ahmed", ARY News 
+#EXTINF:-1 tvg-id="ARYNews.pk" tvg-name="ARY News" tvg-logo="LOGO_URL" group-title="Ahmed",ARY News
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYnews-abr/playlist.m3u8
 
-#EXTINF:-1, HUM NEWS
+#EXTINF:-1 tvg-id="HumNews.pk" tvg-name="Hum News" tvg-logo="LOGO_URL" group-title="Ahmed",Hum News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/humnews-abr/playlist.m3u8
 
-#EXTINF:-1, AAJ NEWS
+#EXTINF:-1 tvg-id="AajNews.pk" tvg-name="Aaj News" tvg-logo="LOGO_URL" group-title="Ahmed",Aaj News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/AajNews-abr/playlist.m3u8
 
-#EXTINF:-1, EXPRESS NEWS
+#EXTINF:-1 tvg-id="ExpressNews.pk" tvg-name="Express News" tvg-logo="LOGO_URL" group-title="Ahmed",Express News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/expressnews-abr/playlist.m3u8
 
-#EXTINF:-1, SAMAA NEWS
+#EXTINF:-1 tvg-id="SamaaNews.pk" tvg-name="SAMAA News" tvg-logo="LOGO_URL" group-title="Ahmed",SAMAA News
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/playlist.m3u8
 
-#EXTINF:-1, 92 NEWS
-‎http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-id="92NewsHD.pk" tvg-name="92 News HD" tvg-logo="LOGO_URL" group-title="Ahmed",92 News HD
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
-#EXTINF:-1, DUNIYA NEWS
+#EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" tvg-logo="LOGO_URL" group-title="Ahmed",Dunya News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/DuniyaNews-abr/playlist.m3u8
 
-#EXTINF:-1, PTV NEWS
+#EXTINF:-1 tvg-id="PTVNews.pk" tvg-name="PTV News" tvg-logo="LOGO_URL" group-title="Ahmed",PTV News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/PTVNews-abr/playlist.m3u8
 
-#EXTINF:-1, BOL NEWS
+#EXTINF:-1 tvg-id="BolNews.pk" tvg-name="Bol News" tvg-logo="LOGO_URL" group-title="Ahmed",Bol News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/BolNews-abr/playlist.m3u8
 
-#EXTINF:-1, NEO NEWS
+#EXTINF:-1 tvg-id="NeoNews.pk" tvg-name="Neo News" tvg-logo="LOGO_URL" group-title="Ahmed",Neo News
 http://163.61.227.29:8000/play/a029/index.m3u8
 
-#EXTINF:-1, PUBLIC NEWS
+#EXTINF:-1 tvg-id="PublicNews.pk" tvg-name="Public News" tvg-logo="LOGO_URL" group-title="Ahmed",Public News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/PublicTV-abr/playlist.m3u8
 
-#EXTINF:-1, NEO NEWS
-https://cdn02khi.tamashaweb.com:8087/jazzauth/NeoNews-abr/playlist.m3u8
-
-#EXTINF:-1, 24 NEWS
+#EXTINF:-1 tvg-id="24News.pk" tvg-name="24 News" tvg-logo="LOGO_URL" group-title="Ahmed",24 News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/24News-abr/playlist.m3u8
 
-#EXTINF:-1, 365 NEWS
+#EXTINF:-1 tvg-id="365News.pk" tvg-name="365 News" tvg-logo="LOGO_URL" group-title="Ahmed",365 News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/365News-abr/playlist.m3u8
 
-#EXTINF:-1, GNN NEWS
+#EXTINF:-1 tvg-id="GNN.pk" tvg-name="GNN News" tvg-logo="LOGO_URL" group-title="Ahmed",GNN News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/GNN-abr/playlist.m3u8
 
-#EXTINF:-1, LAHORE RUNG
+#EXTINF:-1 tvg-id="LahoreRung.pk" tvg-name="Lahore Rung" tvg-logo="LOGO_URL" group-title="Ahmed",Lahore Rung
 https://cdn02khi.tamashaweb.com:8087/jazzauth/LahoreRung-abr/playlist.m3u8
 
-#EXTINF:-1, Dharti TV (Not Free)
+#EXTINF:-1 tvg-id="DhartiTV.pk" tvg-name="Dharti TV" tvg-logo="LOGO_URL" group-title="Ahmed",Dharti TV
 https://tapmadlive.akamaized.net/tapmadold/dhartitv.smil/playlist.m3u8
 
-#EXTINF:-1, KTN ENT
+#EXTINF:-1 tvg-id="KTNEntertainment.pk" tvg-name="KTN Entertainment" tvg-logo="LOGO_URL" group-title="Ahmed",KTN Entertainment
 https://cdn02khi.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8
 
-#EXTINF:-1, KASHISH
+#EXTINF:-1 tvg-id="KashishTV.pk" tvg-name="Kashish TV" tvg-logo="LOGO_URL" group-title="Ahmed",Kashish TV
 https://cdn02khi.tamashaweb.com:8087/jazzauth/KashishTV-abr/playlist.m3u8
 
-#EXTINF:-1, KTN NEWS
+#EXTINF:-1 tvg-id="KTNNews.pk" tvg-name="KTN News" tvg-logo="LOGO_URL" group-title="Ahmed",KTN News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/ktnNews-abr/playlist.m3u8
 
-#EXTINF:-1, TIME NEWS
+#EXTINF:-1 tvg-id="TimeNews.pk" tvg-name="Time News" tvg-logo="LOGO_URL" group-title="Ahmed",Time News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/TimeNews-abr/playlist.m3u8
 
-#EXTINF:-1, SINDH TV
+#EXTINF:-1 tvg-id="SindhTV.pk" tvg-name="Sindh TV" tvg-logo="LOGO_URL" group-title="Ahmed",Sindh TV
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/sindhTV-abr/playlist.m3u8
 
-#EXTINF:-1, SINDH NEWS
+#EXTINF:-1 tvg-id="SindhNews.pk" tvg-name="Sindh News" tvg-logo="LOGO_URL" group-title="Ahmed",Sindh News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/SindhNews-abr/playlist.m3u8
 
-#EXTINF:-1, MEHRAN TV
+#EXTINF:-1 tvg-id="MehranTV.pk" tvg-name="Mehran TV" tvg-logo="LOGO_URL" group-title="Ahmed",Mehran TV
 https://cdn02khi.tamashaweb.com:8087/jazzauth/MehranTV-abr/playlist.m3u8
 
-#EXTINF:-1, Awaz TV
+#EXTINF:-1 tvg-id="AwazTV.pk" tvg-name="Awaz TV" tvg-logo="LOGO_URL" group-title="Ahmed",Awaz TV
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/120M/playlist.m3u8
 
-#EXTINF:-1, PTV Sports
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" tvg-logo="LOGO_URL" group-title="Ahmed",PTV Sports
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/189H/playlist.m3u8
 
-#EXTINF:-1, TEN Sporst (Not Free)
-https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
-
-#EXTINF:-1, Ten Sports( Coming soon)
+#EXTINF:-1 tvg-id="TenSports.pk" tvg-name="Ten Sports" tvg-logo="LOGO_URL" group-title="Ahmed",Ten Sports
 https://cdn02khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8
 
-#EXTINF:-1, PK Sports (Not Free)
+#EXTINF:-1 tvg-id="PKSports.pk" tvg-name="PK Sports" tvg-logo="LOGO_URL" group-title="Ahmed",PK Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 
-#EXTINF:-1, A SPORTS HD
+#EXTINF:-1 tvg-id="ASports.pk" tvg-name="A Sports HD" tvg-logo="LOGO_URL" group-title="Ahmed",A Sports HD
 http://163.61.227.29:8000/play/a03t/index.m3u8
 
-#EXTINF:-1, Geo SUPER 
+#EXTINF:-1 tvg-id="GeoSuper.pk" tvg-name="Geo Super" tvg-logo="LOGO_URL" group-title="Ahmed",Geo Super
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v2a1/mono.ts.m3u8
 
-#EXTINF:-1, CHANNEL (Pro)
-https://alibabacdn4.tamashaweb.com/alibaba04/alibaba04stream.m3u8
-
-#EXTINF:-1, CHANNEL 2 (Pro)
-https://alibabacdn5.tamashaweb.com/alibaba05/alibaba05stream.m3u8
-
-#EXTINF:-1, CHANNEL 1
-https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream.m3u8
-
-#EXTINF:-1, CHANNEL 2 
-https://alibabacdn3.tamashaweb.com/alibaba03/alibaba03stream.m3u8
-
-#EXTINF:-1, CHANNEL 3
-https://cdn01khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8
-
-#EXTINF:-1, MyCo Live
-https://ml-pull-dvc-myco.io:2096/ICC_T20WC/tracks-v5a1/mono.ts.m3u8
-
-#EXTINF:-1, HUM TV
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="Hum TV" tvg-logo="LOGO_URL" group-title="Ahmed",Hum TV
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8
 
-#EXTINF:-1, ARY Digital
+#EXTINF:-1 tvg-id="ARYDigital.pk" tvg-name="ARY Digital" tvg-logo="LOGO_URL" group-title="Ahmed",ARY Digital
 https://cdn02khi.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8
 
-#EXTINF:-1, GEO ENT
+#EXTINF:-1 tvg-id="GeoEntertainment.pk" tvg-name="Geo Entertainment" tvg-logo="LOGO_URL" group-title="Ahmed",Geo Entertainment
 https://cdn02khi.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/playlist.m3u8
 
-#EXTINF:-1, GREEN TV
+#EXTINF:-1 tvg-id="GreenTV.pk" tvg-name="Green TV" tvg-logo="LOGO_URL" group-title="Ahmed",Green TV
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/166M/playlist.m3u8
 
-#EXTINF:-1, GTV NEWS
+#EXTINF:-1 tvg-id="GTVNews.pk" tvg-name="GTV News" tvg-logo="LOGO_URL" group-title="Ahmed",GTV News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/GTVNews-abr/playlist.m3u8
 
-#EXTINF:-1, SUNO NEWS
+#EXTINF:-1 tvg-id="SunoNews.pk" tvg-name="Suno News" tvg-logo="LOGO_URL" group-title="Ahmed",Suno News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/Suno_News-abr/playlist.m3u8
 
-#EXTINF:-1, DAWN NEWS
+#EXTINF:-1 tvg-id="DawnNews.pk" tvg-name="Dawn News" tvg-logo="LOGO_URL" group-title="Ahmed",Dawn News
 https://cdn02khi.tamashaweb.com:8087/jazzauth/DawnNews-abr/playlist.m3u8
 
-#EXTINF:-1, CHANNEL 5
+#EXTINF:-1 tvg-id="Channel5.pk" tvg-name="Channel 5" tvg-logo="LOGO_URL" group-title="Ahmed",Channel 5
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/159-4M/playlist.m3u8
 
-#EXTINF:-1, METRO 1
+#EXTINF:-1 tvg-id="Metro1.pk" tvg-name="Metro 1" tvg-logo="LOGO_URL" group-title="Ahmed",Metro 1
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/175M/chunks.m3u8
 
-#EXTINF:-1, AIK NEWS
+#EXTINF:-1 tvg-id="AikNews.pk" tvg-name="Aik News" tvg-logo="LOGO_URL" group-title="Ahmed",Aik News
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/169M/chunks.m3u8
 
-#EXTINF:-1, CITY 21
+#EXTINF:-1 tvg-id="City21.pk" tvg-name="City 21" tvg-logo="LOGO_URL" group-title="Ahmed",City 21
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/168M/chunks.m3u8
 
-#EXTINF:-1, ABN NEWS
+#EXTINF:-1 tvg-id="ABNNews.pk" tvg-name="ABN News" tvg-logo="LOGO_URL" group-title="Ahmed",ABN News
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/161M/chunks.m3u8
 
-#EXTINF:-1, ROHI TV
+#EXTINF:-1 tvg-id="RohiTV.pk" tvg-name="Rohi TV" tvg-logo="LOGO_URL" group-title="Ahmed",Rohi TV
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/147M/chunks.m3u8
 
-#EXTINF:-1, CITY 42
+#EXTINF:-1 tvg-id="City42.pk" tvg-name="City 42" tvg-logo="LOGO_URL" group-title="Ahmed",City 42
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/144M/chunks.m3u8
 
-#EXTINF:-1, CITY 41
+#EXTINF:-1 tvg-id="City41.pk" tvg-name="City 41" tvg-logo="LOGO_URL" group-title="Ahmed",City 41
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/143M/chunks.m3u8
 
-#EXTINF:-1, ROZE NEWS
+#EXTINF:-1 tvg-id="RozeNews.pk" tvg-name="Roze News" tvg-logo="LOGO_URL" group-title="Ahmed",Roze News
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/139M/chunks.m3u8
 
-#EXTINF:-1, SUN NEWS
+#EXTINF:-1 tvg-id="SunNews.pk" tvg-name="Sun News" tvg-logo="LOGO_URL" group-title="Ahmed",Sun News
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SUN-NEWS-abr/playlist.m3u8
 
-#EXTINF:-1, Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="LOGO_URL" group-title="Ahmed",Animal Planet
 https://cdn05khi.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/playlist.m3u8
 
-#EXTINF:-1, Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="LOGO_URL" group-title="Ahmed",Discovery Channel
 https://cdn02khi.tamashaweb.com:8087/jazzauth/DiscoveryHD-abr/playlist.m3u8
 
-#EXTINF:-1, Discovery Science
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-logo="LOGO_URL" group-title="Ahmed",Discovery Science
 https://cdn12isb.tamashaweb.com:8087/jazzauth/Discovery-Science-abr/playlist.m3u8
 
-#EXTINF:-1, BBC NEWS
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="LOGO_URL" group-title="Ahmed",BBC News
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/BBCNEWS-abr/playlist.m3u8
 
-#EXTINF:-1, BBC EARTH
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="LOGO_URL" group-title="Ahmed",BBC Earth
 https://cdn05khi.tamashaweb.com:8087/jazzauth/BBC-Earth-abr/playlist.m3u8
 
-#EXTINF:-1, BBC FIRST
+#EXTINF:-1 tvg-id="BBCFirst.uk" tvg-name="BBC First" tvg-logo="LOGO_URL" group-title="Ahmed",BBC First
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/BBC-First-abr/playlist.m3u8
 
-#EXTINF:-1, BBC LIFE
+#EXTINF:-1 tvg-id="BBCLifestyle.uk" tvg-name="BBC Lifestyle" tvg-logo="LOGO_URL" group-title="Ahmed",BBC Lifestyle
 https://cdn12isb.tamashaweb.com:8087/jazzauth/BBC-Lifestyle-abr/playlist.m3u8
 
-#EXTINF:-1, CNN News
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="LOGO_URL" group-title="Ahmed",CNN
 https://cdn02khi.tamashaweb.com:8087/jazzauth/Livecnn-abr/playlist.m3u8
 
-#EXTINF:-1, Pakistan News
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/192H/playlist.m3u8
-
-#EXTINF:-1, Tamasha News
-https://cdn02khi.tamashaweb.com:8087/jazzauth/Tamasha-News-abr/playlist.m3u8
-
-#EXTINF:-1, Tamasha Life
-https://cdn12isb.tamashaweb.com:8087/jazzauth/Tamasha-Life-HD-abr/playlist.m3u8
-
-#EXTINF:-1, Tamasha Woman
-https://cdn12isb.tamashaweb.com:8087/jazzauth/Tamasha-Women-abr/playlist.m3u8
-
-#EXTINF:-1, Digital Pak
-https://cdn02khi.tamashaweb.com:8087/jazzauth/Digital-pak-abr/playlist.m3u8
-
-
-#EXTINF:-1, Discover Pakistan
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" tvg-logo="LOGO_URL" group-title="Ahmed",Discover Pakistan
 https://cdn02khi.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u8
 
-#EXTINF:-1, HUM Sitaray
+#EXTINF:-1 tvg-id="HumSitaray.pk" tvg-name="Hum Sitaray" tvg-logo="LOGO_URL" group-title="Ahmed",Hum Sitaray
 https://cdn02khi.tamashaweb.com:8087/jazzauth/HumSitaray-abr/playlist.m3u8
 
-#EXTINF:-1, ARY Zindagi
+#EXTINF:-1 tvg-id="ARYZindagi.pk" tvg-name="ARY Zindagi" tvg-logo="LOGO_URL" group-title="Ahmed",ARY Zindagi
 https://cdn02khi.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/playlist.m3u8
 
-#EXTINF:-1, PTV Home
+#EXTINF:-1 tvg-id="PTVHome.pk" tvg-name="PTV Home" tvg-logo="LOGO_URL" group-title="Ahmed",PTV Home
 https://cdn02khi.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
 
-#EXTINF:-1, PTV National
+#EXTINF:-1 tvg-id="PTVNational.pk" tvg-name="PTV National" tvg-logo="LOGO_URL" group-title="Ahmed",PTV National
 https://cdn02khi.tamashaweb.com:8087/jazzauth/PTVNational-abr/playlist.m3u8
 
-#EXTINF:-1, PTV Bolan
+#EXTINF:-1 tvg-id="PTVBolan.pk" tvg-name="PTV Bolan" tvg-logo="LOGO_URL" group-title="Ahmed",PTV Bolan
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/194H/playlist.m3u8
 
-#EXTINF:-1, BOL ENT
+#EXTINF:-1 tvg-id="BolEntertainment.pk" tvg-name="Bol Entertainment" tvg-logo="LOGO_URL" group-title="Ahmed",Bol Entertainment
 https://cdn02khi.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/playlist.m3u8
 
-#EXTINF:-1, MUN TV 
-https://ml-pull-dvc-myco.io:2096/MUN_TV/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, APLUS
+#EXTINF:-1 tvg-id="APlusTV.pk" tvg-name="A Plus" tvg-logo="LOGO_URL" group-title="Ahmed",A Plus
 https://cdn02khi.tamashaweb.com:8087/jazzauth/Aplus-abr/playlist.m3u8
 
-#EXTINF:-1, Aaj Entertainment
+#EXTINF:-1 tvg-id="AajEntertainment.pk" tvg-name="Aaj Entertainment" tvg-logo="LOGO_URL" group-title="Ahmed",Aaj Entertainment
 https://cdn02khi.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8
 
-#EXTINF:-1, ATV
+#EXTINF:-1 tvg-id="ATV.pk" tvg-name="ATV" tvg-logo="LOGO_URL" group-title="Ahmed",ATV
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/123M/playlist.m3u8
 
-#EXTINF:-1, TV ONE
+#EXTINF:-1 tvg-id="TVOne.pk" tvg-name="TV One" tvg-logo="LOGO_URL" group-title="Ahmed",TV One
 https://cdn02khi.tamashaweb.com:8087/jazzauth/TVOne-abr/playlist.m3u8
 
-#EXTINF:-1, Express ENT
+#EXTINF:-1 tvg-id="ExpressEntertainment.pk" tvg-name="Express Entertainment" tvg-logo="LOGO_URL" group-title="Ahmed",Express Entertainment
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/159-1H/playlist.m3u8
 
-#EXTINF:-1, Set Entertainment
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/164M/chunks.m3u8
-
-#EXTINF:-1, LTN Family
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/158-2M/chunks.m3u8
-
-#EXTINF:-1, APNA TV
+#EXTINF:-1 tvg-id="ApnaChannel.pk" tvg-name="Apna TV" tvg-logo="LOGO_URL" group-title="Ahmed",Apna TV
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/134H/chunks.m3u8
 
-#EXTINF:-1, SAB TV
-https://cdn05khi.tamashaweb.com:8087/jazzauth/SabTV-abr/playlist.m3u8
-
-#EXTINF:-1, Aur Life
+#EXTINF:-1 tvg-id="AurLifeHD.pk" tvg-name="Aur Life" tvg-logo="LOGO_URL" group-title="Ahmed",Aur Life
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/AurLife-abr/playlist.m3u8
 
-#EXTINF:-1, Minimax
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Minimax-abr/playlist.m3u8
-
-#EXTINF:-1, See TV
-https://cdn12isb.tamashaweb.com:8087/jazzauth/seeTV-abr/playlist.m3u8
-
-
-
-#EXTINF:-1, Jalwa
-https://cdn02khi.tamashaweb.com:8087/jazzauth/jalwa-abr/playlist.m3u8
-
-#EXTINF:-1, 8XM
+#EXTINF:-1 tvg-id="8XM.pk" tvg-name="8XM" tvg-logo="LOGO_URL" group-title="Ahmed",8XM
 https://cdn02khi.tamashaweb.com:8087/jazzauth/8xm-abr/playlist.m3u8
 
-#EXTINF:-1, Filmax
+#EXTINF:-1 tvg-id="Filmax.pk" tvg-name="Filmax" tvg-logo="LOGO_URL" group-title="Ahmed",Filmax
 https://cdn02khi.tamashaweb.com:8087/jazzauth/Filmax-abr/playlist.m3u8
 
-#EXTINF:-1, Baby TV
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="LOGO_URL" group-title="Ahmed",Baby TV
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/188H/playlist.m3u8
 
-#EXTINF:-1, Champion TV
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/177H/chunks.m3u8
-
-#EXTINF:-1, Movie 1
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/176H/chunks.m3u8
-
-#EXTINF:-1, Star GOLD HD 
-http://103.229.254.25:7001/play/a0dd/index.m3u8
-
-#EXTINF:-1, Link 2
-http://103.99.249.139/stargold/index.m3u8
-
-#EXTINF:-1, SG Link3
-‎http://116.90.120.128:8000/play/a0gy/index.m3u88
-
-#EXTINF:-1, Star GOLD 2
-http://103.229.254.25:7001/play/a0df/index.m3u8
-
-#EXTINF:-1, SG2 Link3
-‎http://116.90.120.128:8000/play/a0hq/index.m3u88
-
-#EXTINF:-1, Star GOLD 2 HD
-http://103.229.254.25:7001/play/a0d0/index.m3u8
-
-#EXTINF:-1, SUM Link3
-‎http://116.90.120.128:8000/play/a0ka/index.m3u88
-
-#EXTINF:-1, SG Romantic 
-http://103.229.254.25:7001/play/a0ck/index.m3u8
-
-#EXTINF:-1, SG Thirller 
-http://116.90.120.128:8000/play/a0gw/index.m3u88
-
-#EXTINF:-1, SG Select HD
-http://103.229.254.25:7001/play/a032/index.m3u8
-
-#EXTINF:-1, Star PLUS
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="Star Plus" tvg-logo="LOGO_URL" group-title="Ahmed",Star Plus
 http://103.229.254.25:7001/play/a09p/index.m3u8
 
-#EXTINF:-1, SP Link3
-‎http://116.90.120.128:8000/play/a0gr/index.m3u88
-
-#EXTINF:-1, Star PLUS HD
-http://103.229.254.25:7001/play/a09z/index.m3u8
-
-#EXTINF:-1, COLORS 
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" tvg-logo="LOGO_URL" group-title="Ahmed",Colors
 http://103.229.254.25:7001/play/a077/index.m3u8
 
-#EXTINF:-1, link 2
-http://103.99.249.139/colors/index.m3u8
-
-#EXTINF:-1, Colors. Link3
-‎http://116.90.120.128:8000/play/a0gt/index.m3u88
-
-#EXTINF:-1, COLORS HD
-http://103.229.254.25:7001/play/a0a1/index.m3u8
-
-#EXTINF:-1, ZEE TV
-http://103.229.254.25:7001/play/a09t/index.m3u8
-
-#EXTINF:-1, ZEE CANADA
-https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
-
-#EXTINF:-1, ZTV Link3
-‎http://116.90.120.128:8000/play/a0hk/index.m3u88
-
-#EXTINF:-1, ZEETV HD
-http://103.229.254.25:7001/play/a0cs/index.m3u8
-‎
-#EXTINF:-1, &TV
-http://103.229.254.25:7001/play/a09v/index.m3u8
-
-#EXTINF:-1, &TV HD
-http://103.229.254.25:7001/play/a034/index.m3u8
-
-#EXTINF:-1, SONY ENT
-http://103.229.254.25:7001/play/a074/index.m3u8
-
-#EXTINF:-1, Set
-http://217.20.112.199/sethd/index.m3u8
-
-#EXTINF:-1, SONY HD
-http://103.229.254.25:7001/play/a0dv/index.m3u8
-
-#EXTINF:-1, SONY SAB
-http://103.229.254.25:7001/play/a09s/index.m3u8
-
-#EXTINF:-1, link2
-http://103.99.249.139/sonysab/index.m3u8
-
-#EXTINF:-1, SAB HD
-http://103.229.254.25:7001/play/a0db/index.m3u8
-
-#EXTINF:-1, SB Link3
-‎http://116.90.120.128:8000/play/a0h2/index.m3u88
-
-#EXTINF:-1, STAR BHARAT
-http://116.90.120.128:8000/play/a0ja/index.m3u88
-
-#EXTINF:-1, Star UTSAV 
-http://163.61.227.29:8000/play/a04p/index.m3u8
-
-#EXTINF:-1, COLORS RISHTEY
+#EXTINF:-1 tvg-id="ColorsRishtey.in" tvg-name="Colors Rishtey" tvg-logo="LOGO_URL" group-title="Ahmed",Colors Rishtey
 http://163.61.227.29:8000/play/a04k/index.m3u8
 
-#EXTINF:-1, SONY PAL
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" tvg-logo="LOGO_URL" group-title="Ahmed",Zee TV
+http://103.229.254.25:7001/play/a09t/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyEntertainment.in" tvg-name="Sony Entertainment" tvg-logo="LOGO_URL" group-title="Ahmed",Sony Entertainment
+http://103.229.254.25:7001/play/a074/index.m3u8
+
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB" tvg-logo="LOGO_URL" group-title="Ahmed",Sony SAB
+http://103.229.254.25:7001/play/a09s/index.m3u8
+
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-name="Star Bharat" tvg-logo="LOGO_URL" group-title="Ahmed",Star Bharat
+http://116.90.120.128:8000/play/a0ja/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyPal.in" tvg-name="Sony PAL" tvg-logo="LOGO_URL" group-title="Ahmed",Sony PAL
 http://163.61.227.29:8000/play/a04d/index.m3u8
 
-#EXTINF:-1, SONY KAL
-https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1, ZEE ANMOL 
-http://163.61.227.29:8000/play/a04a/index.m3u8
-
-#EXTINF:-1, DANGAL
+#EXTINF:-1 tvg-id="Dangal.in" tvg-name="Dangal" tvg-logo="LOGO_URL" group-title="Ahmed",Dangal
 http://163.61.227.29:8000/play/a04r/index.m3u8
 
-#EXTINF:-1, DANGAL 2
-http://163.61.227.29:8000/play/a04b/index.m3u8
-
-#EXTINF:-1, BIG MAGIC 
-http://163.61.227.29:8000/play/a04f/index.m3u8
-
-#EXTINF:-1, SONY MAX
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony MAX" tvg-logo="LOGO_URL" group-title="Ahmed",Sony MAX
 http://103.229.254.25:7001/play/a0co/index.m3u8
 
-#EXTINF:-1, max link2
-http://103.99.249.139/sonymax/index.m3u8
-
-#EXTINF:-1, SONY MAX HD
-http://116.90.120.128:8000/play/a0jf/index.m3u88
-
-#EXTINF:-1, ‎S WAH  Link3
-‎http://116.90.120.128:8000/play/a0kt/index.m3u88
-
-#EXTINF:-1, Max2 Link3
-‎http://116.90.120.128:8000/play/a0h0/index.m3u88
-
-#EXTINF:-1, ZEE CINEMA HD
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema HD" tvg-logo="LOGO_URL" group-title="Ahmed",Zee Cinema HD
 http://103.99.249.139/zeecinema/index.m3u8
 
-#EXTINF:-1, ‎ZC Link3
-‎http://116.90.120.128:8000/play/a0hc/index.m3u88
-
-#EXTINF:-1, ZEE ANMOL CINEMA 
-http://163.61.227.29:8000/play/a04j/index.m3u8
-
-#EXTINF:-1, ZEE ANMOL 2
-http://116.90.120.128:8000/play/a0ir/index.m3u88
-
-#EXTINF:-1, ZEE ACTION 
-http://163.61.227.29:8000/play/a044/index.m3u8
-
-#EXTINF:-1, ZEE BOLLYWOOD 
-http://103.229.254.25:7001/play/a0dk/index.m3u8
-‎
-#EXTINF:-1, ZEE CLASSIC 
-http://103.229.254.25:7001/play/a09w/index.m3u8
-
-#EXTINF:-1, COLORS CINPLEX HD
-http://163.61.227.29:8000/play/a05x/index.m3u8
-
-#EXTINF:-1, COLORS CINPLEX BOLLY
-http://163.61.227.29:8000/play/a04w/index.m3u8
-
-#EXTINF:-1, COLORS CINPLEX SUP
-http://163.61.227.29:8000/play/a04c/index.m3u8
-
-#EXTINF:-1, & PICTURE HD
-http://103.229.254.25:7001/play/a033/index.m3u8
-‎
-#EXTINF:-1, GOLDMINES
+#EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="LOGO_URL" group-title="Ahmed",Goldmines
 http://163.61.227.29:8000/play/a04u/index.m3u8
 
-#EXTINF:-1, GOLDMINES MOVIES
-http://103.229.254.25:7001/play/a07k/index.m3u8
-
-#EXTINF:-1, GOLDMINES BOLLYWOOD 
-http://103.229.254.25:7001/play/a07l/index.m3u8
-
-#EXTINF:-1, B4U MOVIES
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="LOGO_URL" group-title="Ahmed",B4U Movies
 http://163.61.227.29:8000/play/a047/index.m3u8
 
-#EXTINF:-1, B4U KADAK
-http://163.61.227.29:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" tvg-logo="LOGO_URL" group-title="Ahmed",Pogo
+http://103.229.254.25:7001/play/a0dh/index.m3u8
 
-#EXTINF:-1, B4U HITZ
-http://115.42.65.142:9981/stream/channelid/1099703605
-
-‎#EXTINF:-1, All time
-‎http://163.61.227.29:8000/play/a049/index.m3u8
-
-#EXTINF:-1, ‎Mobranjan tv 
-‎http://163.61.227.29:8000/play/a04h/index.m3u8
-
-#EXTINF:-1, Shem tv
-‎http://163.61.227.29:8000/play/a04q/index.m3u8
-
-‎#EXTINF:-1, Shem josh
-‎http://163.61.227.29:8000/play/a04m/index.m3u8
-
-#EXTINF:-1, Disc kid
-‎http://103.229.254.25:7001/play/a0dg/index.m3u8
-‎
-‎#EXTINF:-1, Pogo
-‎http://103.229.254.25:7001/play/a0dh/index.m3u8
-‎
-#EXTINF:-1, ‎Sonic
-‎http://103.229.254.25:7001/play/a0dl/index.m3u8
-
-#EXTINF:-1, Nick
+#EXTINF:-1 tvg-id="Nick.in" tvg-name="Nick" tvg-logo="LOGO_URL" group-title="Ahmed",Nick
 http://103.229.254.25:7001/play/a0cq/index.m3u8
 
-#EXTINF:-1, link 2
-http://103.99.249.139/sonyyay/index.m3u8
-
-#EXTINF:-1, SONY YAY
+#EXTINF:-1 tvg-id="SonyYAY.in" tvg-name="Sony YAY!" tvg-logo="LOGO_URL" group-title="Ahmed",Sony YAY!
 http://103.229.254.25:7001/play/a0cl/index.m3u8
 
-#EXTINF:-1, DK
-http://103.229.254.25:7001/play/a0dg/index.m3u8
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="LOGO_URL" group-title="Ahmed",9XM
+http://103.229.254.25:7001/play/a07o/index.m3u8
 
-#EXTINF:-1, ANIMAL PLANET 
-http://103.229.254.25:7001/play/a0dr/index.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="LOGO_URL" group-title="Ahmed",B4U Music
+http://163.61.227.29:8000/play/a046/index.m3u8
 
-#EXTINF:-1, 9XM
-‎http://103.229.254.25:7001/play/a07o/index.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" tvg-logo="LOGO_URL" group-title="Ahmed",Music India
+http://163.61.227.29:8000/play/a057/index.m3u8
 
-#EXTINF:-1, ‎9X JALWA
-‎http://103.229.254.25:7001/play/a07r/index.m3u8
-‎
-#EXTINF:-1, SHOBOX
-‎http://163.61.227.29:8000/play/a045/index.m3u8
-‎
-#EXTINF:-1, B4U MUSIC 
-‎http://163.61.227.29:8000/play/a046/index.m3u8
-
-#EXTINF:-1, MUSIC INDIA
-‎http://163.61.227.29:8000/play/a057/index.m3u8
-
-#EXTINF:-1, YRF MUSIC 
-‎https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-
-#EXTINF:-1, TEST
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/29860.m3u8
-
-#EXTINF:-1, TEST
-https://pvt-tatatv.rkdyiptv.workers.dev/rkdyiptv/62357.m3u8
-
-#EXTINF:-1, $ National Geo
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="LOGO_URL" group-title="Ahmed",National Geographic
 https://live1.ssmmcdn.cloud:2096/NATGEOFHD/index.m3u8
-
-
-
-
-
